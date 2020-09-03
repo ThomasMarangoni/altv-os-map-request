@@ -10,7 +10,13 @@ You wont get here following things:
 - MLOs
 
 ## How to request a Map
-Make an issue on this repository, explaine what you are looking for and if I have time, I will make and publish them. You also can pledge some money on an issue, so I get something in return and maybe prefere it.
+Make an issue on this repository, explaine what you are looking for and if I have time, I will make and publish them. You also can pledge some money on an issue, so I get something in return and maybe prefere it. I will always contain my own flavor to the maps.
+
+The issue should contain following infos:
+- type of map (race, dm, roleplay)
+- where it is placed (coordinates, description, picture on imgur)
+- theme (How the map should be themed)
+- description (A detailed description of the map whish)
 
 ## How to support me?
 There a variouse ways to support me:
